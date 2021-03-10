@@ -15,7 +15,6 @@ class Chatty_student
   end 
   
   def raise_hand 
-<<<<<<< HEAD
      super
      super
      super
@@ -29,18 +28,3 @@ class Chatty_student
   end 
 end 
 
-# class Student < User
-#   def log_in
-#     super
-#     @in_class = true
-#   end
-# end
-=======
-    times do
-    puts "TIMES: 4"
-      
-    
-      
-    puts "TIMES: 4"
-end 
->>>>>>> 4467156933adf8794311ba9b9d15adc6323fb829
